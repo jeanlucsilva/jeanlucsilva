@@ -1,0 +1,5 @@
+- 👋 Olá, meu nome é Jean-luc Silva dos Santos
+- 🏠 Moro em Manaus/AM e sou brasileiro.
+- 👀 Estou interessado em Engenharia de Software, desenvolvimento mobile e Kotlin.
+- 🌱 Estou atualmente aprendendo desenvolvimento de aplicativos Android em Kotlin
+- 📫 Não tenho rede sociais além do WhatsApp e Telegram
